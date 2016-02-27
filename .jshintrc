@@ -1,0 +1,9 @@
+{
+  "node": true,
+  "strict": false,
+  "globalstrict": true,
+  "quotmark": true,
+  "undef": true,
+  "unused": true,
+  "eqeqeq": true
+}
